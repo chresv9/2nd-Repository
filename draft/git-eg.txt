@@ -1,1 +1,1 @@
-Sample git example
+Sample git example for practice
